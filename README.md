@@ -11,10 +11,10 @@ Spanish verb conjugator - program that conjugates spanish verbs, currently only 
   Version - 1.0
 
 
-#Warning
+# Warning
 This app probably will not be maintained and the logic is heavily dependent on wordreference.com's website structure. It might break in the future. It's only a small project written for my personal use.
 
-#Usage
+# Usage
 
 conjugator.exe executable is contained in "Application" folder
 
