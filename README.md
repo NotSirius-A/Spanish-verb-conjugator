@@ -5,9 +5,6 @@ Program that uses wordreference.com web scraping to conjugate spanish verbs
 This app probably will not be maintained and the logic is heavily dependent on wordreference.com's website structure, also it is not well-written. It might break in the future. It's only a small project written for my personal use.
 
 ## Usage
-
-conjugator.exe executable is contained in "Application" folder
-
 Input Mode ('i'):
  - type in a word to conjugate and click enter
 
